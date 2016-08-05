@@ -1,0 +1,38 @@
+_repo: Amiel-s-Journal--The-Journal-Intime-of-Henri-Fr-d-ric-Amiel_8545
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mrs. Humphry
+    - Arnold, Mary Augusta
+    - Ward, Mary Augusta Arnold
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+creator:
+  author:
+    agent_name: Amiel, Henri Frédéric
+    alias: Amiel, Henri Frederic
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '4727'
+    url: http://www.gutenberg.org/2009/agents/4727
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Swiss -- 19th century -- Diairies'
+- !lcsh 'Amiel, Henri Frédéric, 1821-1881 -- Diaries'
+- !lcc 'PQ'
+- GITenberg
+title: 'Amiel''s Journal: The Journal Intime of Henri-Frédéric Amiel'
+url: http://www.gutenberg.org/ebooks/8545
